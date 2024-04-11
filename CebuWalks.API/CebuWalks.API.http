@@ -1,0 +1,6 @@
+@CebuWalks.API_HostAddress = http://localhost:5287
+
+GET {{CebuWalks.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
